@@ -1,6 +1,13 @@
 # alfred-yuan-coding-sample
 
 ### Python Sample
+
+Folder: Python Sample (Demand Estimation)
+Project: Dual Network Effects in the EV Transition: Rise of Charging, Decline of Gas.
+
+The scripts include the estimation code and the functions supporting it
+
+
 File: coding_sample_matching.py
 
 Project: Dual Network Effects in the EV Transition: Rise of Charging, Decline of Gas.
