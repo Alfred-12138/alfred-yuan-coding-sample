@@ -2,7 +2,7 @@
 
 ### Python Sample
 
-Folder: Python Sample (Demand Estimation)
+Folder: Sample Code (Demand Estimation)
 Project: Dual Network Effects in the EV Transition: Rise of Charging, Decline of Gas.
 
 The scripts include the estimation code and the functions supporting it
